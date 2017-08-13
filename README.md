@@ -13,4 +13,5 @@
 <ul>
   <li>Python</li>
   <li>PeeWee ORM</li>
+  <li>Command Line/Terminal</li>
 </ul>
